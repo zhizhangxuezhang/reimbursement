@@ -1,0 +1,26 @@
+
+
+
+        GGGGGGGGGGGGGUUUUUUUU     UUUUUUUU     OOOOOOOOO                    JJJJJJJJJJJIIIIIIIIII               AAA                 QQQQQQQQQ     IIIIIIIIII
+     GGG::::::::::::GU::::::U     U::::::U   OO:::::::::OO                  J:::::::::JI::::::::I              A:::A              QQ:::::::::QQ   I::::::::I
+   GG:::::::::::::::GU::::::U     U::::::U OO:::::::::::::OO                J:::::::::JI::::::::I             A:::::A           QQ:::::::::::::QQ I::::::::I
+  G:::::GGGGGGGG::::GUU:::::U     U:::::UUO:::::::OOO:::::::O               JJ:::::::JJII::::::II            A:::::::A         Q:::::::QQQ:::::::QII::::::II
+ G:::::G       GGGGGG U:::::U     U:::::U O::::::O   O::::::O                 J:::::J    I::::I             A:::::::::A        Q::::::O   Q::::::Q  I::::I
+G:::::G               U:::::D     D:::::U O:::::O     O:::::O                 J:::::J    I::::I            A:::::A:::::A       Q:::::O     Q:::::Q  I::::I
+G:::::G               U:::::D     D:::::U O:::::O     O:::::O                 J:::::J    I::::I           A:::::A A:::::A      Q:::::O     Q:::::Q  I::::I
+G:::::G    GGGGGGGGGG U:::::D     D:::::U O:::::O     O:::::O                 J:::::j    I::::I          A:::::A   A:::::A     Q:::::O     Q:::::Q  I::::I
+G:::::G    G::::::::G U:::::D     D:::::U O:::::O     O:::::O                 J:::::J    I::::I         A:::::A     A:::::A    Q:::::O     Q:::::Q  I::::I
+G:::::G    GGGGG::::G U:::::D     D:::::U O:::::O     O:::::O     JJJJJJJ     J:::::J    I::::I        A:::::AAAAAAAAA:::::A   Q:::::O     Q:::::Q  I::::I
+G:::::G        G::::G U:::::D     D:::::U O:::::O     O:::::O     J:::::J     J:::::J    I::::I       A:::::::::::::::::::::A  Q:::::O  QQQQ:::::Q  I::::I
+ G:::::G       G::::G U::::::U   U::::::U O::::::O   O::::::O     J::::::J   J::::::J    I::::I      A:::::AAAAAAAAAAAAA:::::A Q::::::O Q::::::::Q  I::::I
+  G:::::GGGGGGGG::::G U:::::::UUU:::::::U O:::::::OOO:::::::O     J:::::::JJJ:::::::J  II::::::II   A:::::A             A:::::AQ:::::::QQ::::::::QII::::::II
+   GG:::::::::::::::G  UU:::::::::::::UU   OO:::::::::::::OO       JJ:::::::::::::JJ   I::::::::I  A:::::A               A:::::AQQ::::::::::::::Q I::::::::I
+     GGG::::::GGG:::G    UU:::::::::UU       OO:::::::::OO           JJ:::::::::JJ     I::::::::I A:::::A                 A:::::A QQ:::::::::::Q  I::::::::I
+        GGGGGG   GGGG      UUUUUUUUU           OOOOOOOOO               JJJJJJJJJ       IIIIIIIIIIAAAAAAA                   AAAAAAA  QQQQQQQQ::::QQIIIIIIIIII
+                                                                                                                                            Q:::::Q
+                                                                                                                                             QQQQQQ
+
+
+
+
+
